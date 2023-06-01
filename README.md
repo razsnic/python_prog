@@ -1,2 +1,2 @@
 # python_prog
-Python Programming
+Explore Python Programming Fundamentals
